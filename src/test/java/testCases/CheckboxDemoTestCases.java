@@ -17,8 +17,6 @@ public class CheckboxDemoTestCases extends BasePage{
     }
 
 
-
-
     @Test
     public void clickOnTheSingleCheckboxCheckMark() throws InterruptedException {
         checkboxDemoPage.ClickOnTheCheckBoxDemo();
